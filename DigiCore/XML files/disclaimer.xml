@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8"/>
+	<meta name="description" content="Digicore Main Page"/>
+	<meta name="keywords" content="HTML, DigiCore"/>
+	<meta name="author" content="DC"/>
+	<title>DigiCore - Disclaimer</title>
+	<link rel="stylesheet" type="text/css" href="styles/style.css"/>
+	<script src="./script/script.js"></script>
+	<script src="./script/enhancements.js"></script>
+	<link rel="shortcut icon" href="images/logo.ico"/>
+	<link rel="stylesheet" href= "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/> 
+</head>
+
+<body id="disclaimerbody">
+	<input type="button" value="Top" id="myButton"/>
+	
+	<div class="container">
+	<header>
+	<div class="containerhead">
+		<map name="image-map">
+			<area alt="Logo" title="Logo" href="index.html" coords="0,0,600,150" shape="rect"/>
+		</map>
+		<img src="images/logo.png" alt="Logo" width="288" height="123" id="header-img" usemap="#image-map"/>
+		<nav id="nav-bar">
+		</nav>
+	</div>
+	</header>
+	</div>
+	
+	<div class="container">
+	<h1 id="disclaimer2">Disclaimer </h1>
+	<ul class="disclaimer">
+	<li>This website is created mainly for educational and non-commercial use only. It is a partial fulfilment for completion of unit COS10011 - Creating Web Applications offered in Swinburne University of Technology, Sarawak Campus for Semester 1, 2020.</li>
+	<li>The web-master and author(s) do not represent the business entity.</li>
+	<li>The content of the pages of this website might be out-dated or inaccurate, thus, the author(s) and web-master does not take any responsibility for incorrect information disseminate or cited from this website.</li>
+	<li>If you believe that information of any kind on this website is an infringement of copyright in material in which you either own copyright or are authorized to exercise the rights of a copyright owner, kindly contact the web-master <a class="fonta" href="mailto:101225545@students.swinburne.edu.my">Tonny Wijaya </a>for removal.</li>
+	</ul>
+	</div>
+	<div class="sh-footer">
+	<div class="container">
+		<div id="nav-menu1" class="listfont widget-item">
+			<h3>PRODUCT</h3>
+			<ul>
+				<li><a href="product2.html">Audio</a></li>
+				<li><a href="product1.html">Mouse &amp; Keyboards</a></li>
+				<li><a href="product3.html">Laptops</a></li>
+				<li><a href="product4.html">Gaming Accessories</a></li>
+			</ul>
+		</div>
+		<div id="nav-menu2" class="listfont widget-item">
+			<h3>CONTACT US</h3>
+			<ul>
+				<li><a href="#">Email</a></li>
+				<li><a href="#">Instagram</a></li>
+				<li><a href="#">Twitter</a></li>
+				<li><a href="#">Location</a></li>
+			</ul>
+		</div>
+		<div id="nav-menu3" class="listfont widget-item">
+			<h3>ABOUT US</h3>
+			<ul>
+				<li><a href="aboutme2.html">Tonny</a></li>
+				<li><a href="aboutme1.html">Xave</a></li>
+				<li><a href="aboutme3.html">Kha Hau</a></li>
+				<li><a href="aboutme4.html">Yin Han</a></li>
+			</ul>			
+		</div>
+	</div>
+	</div>
+	<div class="copyright">
+	<footer>
+		<div class="container container-padding">
+		Copyright &#169; 2020 DigiCore. All rights Reserved.
+		<a href="disclaimer.html" id="disclaimer">Disclaimer</a>
+		</div>
+	</footer>
+	</div>
+</body>
+</html>
